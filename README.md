@@ -7,14 +7,14 @@
 <meta name="NFT" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
+    <em>Hello, </em> <img src="source/Hi.gif" height="37px" width="30px"> <em> I'm </em>
     <em> 🚀 a Full-Stack Developer! </em>
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20and%20%20Front-end%20Developer;Web3%20and%20NFT,%20Back-end%20Developer;Full-stack%20Blockchain%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
 ### :smile: Freelancing, Hiring, Permanent
-### :smile: Web Development is a part of my life and :book: Keep coding forever.
+### :smile: Blockchain Development is a part of my life and :book: Keep coding forever.
 ### :smile: Successful track record of developing.
 --------
 
@@ -62,6 +62,9 @@
             <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="100"/></td>
+            <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
+            <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         </tr>
     </table>
 </p>
